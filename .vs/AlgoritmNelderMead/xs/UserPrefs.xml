@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{6632CF7E-7923-4DB4-B766-4AFC0C9D9EE0}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AlgoritmNelderMead PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TestNelderMead FirstBuild="True" />
+</Properties>
