@@ -21,7 +21,6 @@ namespace AlgoritmNelderMead
             return result;
         }
 
-        //для шага 3: центр тяжести
         public Point Center(int n, List<Point> points, string func)
         {           
             Point temp = new Point(new double[n], 0);
@@ -35,7 +34,6 @@ namespace AlgoritmNelderMead
             return X_centr;
         }    
 
-        //для шага 6: сжатие
         public Point Compression(int n, Point X_worst, Point X_centr, double betta, string func)
         {
             Point temp = betta * X_worst + (1 - betta) * X_centr;
@@ -43,7 +41,6 @@ namespace AlgoritmNelderMead
             return X_compression;
         }
 
-        //для шага 9: условие останова
         public void CheckingFinal(Points P, int n, List<Point> points, double eps, double alpha, double betta, double gamma, string func)
         {
             Point X_center = Center(n, points, func);
@@ -58,7 +55,6 @@ namespace AlgoritmNelderMead
             if (z > eps) { Point answer = BasicCycle(P, eps, n, alpha, betta, gamma, func); }
         }
 
-        //oсновной цикл
         public Point Algoritm(double eps, int n, double alpha, double betta, double gamma, string func)
         {
             //1 шаг: формируем начальный симплекс
@@ -66,7 +62,6 @@ namespace AlgoritmNelderMead
             return BasicCycle(P, eps, n, alpha, betta, gamma, func);
         }
 
-        //oсновной цикл
         public Point BasicCycle(Points P, double eps, int n, double alpha, double betta, double gamma, string func)
         {        
             //шаг 2: сортирауем точки в порядке возрастания
