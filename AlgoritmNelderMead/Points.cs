@@ -2,11 +2,11 @@
 namespace AlgoritmNelderMead
 {
     public class Points
-	{
-		public List<Point> points;
+    {
+	public List<Point> points;
 
         public Points(int n, string func)
-		{
+	{
             AlgoritmNelderMead.NelderMead NM = new NelderMead();
             points = new List<Point>();
 
