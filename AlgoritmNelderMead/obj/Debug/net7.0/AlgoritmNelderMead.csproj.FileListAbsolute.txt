@@ -13,3 +13,22 @@
 /Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.pdb
 /Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.genruntimeconfig.cache
 /Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/ref/AlgoritmNelderMead.dll
+/Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/MathParser.org-mXparser.dll
+/Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.csproj.CopyComplete
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/AlgoritmNelderMead
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/AlgoritmNelderMead.deps.json
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/AlgoritmNelderMead.runtimeconfig.json
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/AlgoritmNelderMead.dll
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/AlgoritmNelderMead.pdb
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/bin/Debug/net7.0/MathParser.org-mXparser.dll
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.csproj.AssemblyReference.cache
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.AssemblyInfoInputs.cache
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.AssemblyInfo.cs
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.csproj.CoreCompileInputs.cache
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.csproj.CopyComplete
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.dll
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/refint/AlgoritmNelderMead.dll
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.pdb
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/AlgoritmNelderMead.genruntimeconfig.cache
+/Users/daryapachurina/Desktop/МО/лаб 1/AlgoritmNelderMead/AlgoritmNelderMead/obj/Debug/net7.0/ref/AlgoritmNelderMead.dll

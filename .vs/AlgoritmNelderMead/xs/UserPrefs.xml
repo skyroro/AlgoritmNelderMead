@@ -1,5 +1,31 @@
 ﻿<Properties StartupConfiguration="{6632CF7E-7923-4DB4-B766-4AFC0C9D9EE0}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestNelderMead/UnitTest1.cs">
+    <Files>
+      <File FileName="AlgoritmNelderMead/Program.cs" Line="1" Column="1" />
+      <File FileName="AlgoritmNelderMead/NelderMead.cs" Line="108" Column="19" />
+      <File FileName="AlgoritmNelderMead/Point.cs" Line="18" Column="9" />
+      <File FileName="AlgoritmNelderMead/FunctionValue.cs" />
+      <File FileName="TestNelderMead/UnitTest1.cs" Line="25" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AlgoritmNelderMead" expanded="True">
+            <Node name="AlgoritmNelderMead" expanded="True" />
+            <Node name="TestNelderMead" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.AlgoritmNelderMead PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TestNelderMead FirstBuild="True" />
+  <MultiItemStartupConfigurations />
 </Properties>

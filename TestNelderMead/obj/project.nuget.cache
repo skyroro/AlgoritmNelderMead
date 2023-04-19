@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mppvxYcTBB72vQtRw7LLZs4TtZohydvg2I5DXV599o9Y5UmKNH/8SoCctZkDoOMj/P1j4e/zkwCAlBNkYzhBHQ==",
+  "dgSpecHash": "6pJI/527xoOyjQAeL/Tf/OELgr9X8QyDvOBW4diAklfJPOfisCIOM+kxN+jPbHZvuju7banggjmWPm7+2PLfsA==",
   "success": true,
   "projectFilePath": "/Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/TestNelderMead/TestNelderMead.csproj",
   "expectedPackageFiles": [
     "/Users/daryapachurina/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/daryapachurina/.nuget/packages/mathparser.org-mxparser/5.2.1/mathparser.org-mxparser.5.2.1.nupkg.sha512",
     "/Users/daryapachurina/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/daryapachurina/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/Users/daryapachurina/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",

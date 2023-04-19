@@ -8,6 +8,19 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "MathParser.org-mXparser/5.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathParser.org-mXparser.dll": {
+            "related": ".deps.json"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathParser.org-mXparser.dll": {
+            "related": ".deps.json"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/17.3.2": {
         "type": "package",
         "compile": {
@@ -1901,6 +1914,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "AlgoritmNelderMead/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MathParser.org-mXparser": "5.2.1"
+        },
+        "compile": {
+          "bin/placeholder/AlgoritmNelderMead.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AlgoritmNelderMead.dll": {}
+        }
       }
     }
   },
@@ -1954,6 +1980,30 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "MathParser.org-mXparser/5.2.1": {
+      "sha512": "UZxx6OpGB7sv5zgGssw+8GfGImoPJbJqe8d5f3dj2+Et6V7RLLQLBdSQPmgWVHruSMXRWx6aE88XLzKzaO9n4w==",
+      "type": "package",
+      "path": "mathparser.org-mxparser/5.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.txt",
+        "images/icon.png",
+        "lib/net35/MathParser.org-mXparser.dll",
+        "lib/net40/MathParser.org-mXparser.dll",
+        "lib/net45/MathParser.org-mXparser.dll",
+        "lib/net461/MathParser.org-mXparser.dll",
+        "lib/net6.0/MathParser.org-mXparser.deps.json",
+        "lib/net6.0/MathParser.org-mXparser.dll",
+        "lib/netstandard20/MathParser.org-mXparser.deps.json",
+        "lib/netstandard20/MathParser.org-mXparser.dll",
+        "lib/netstandard21/MathParser.org-mXparser.deps.json",
+        "lib/netstandard21/MathParser.org-mXparser.dll",
+        "mathparser.org-mxparser.5.2.1.nupkg.sha512",
+        "mathparser.org-mxparser.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/17.3.2": {
@@ -6761,10 +6811,16 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "AlgoritmNelderMead/1.0.0": {
+      "type": "project",
+      "path": "../AlgoritmNelderMead/AlgoritmNelderMead.csproj",
+      "msbuildProject": "../AlgoritmNelderMead/AlgoritmNelderMead.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AlgoritmNelderMead >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
@@ -6795,7 +6851,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/AlgoritmNelderMead.csproj": {
+              "projectPath": "/Users/daryapachurina/Desktop/МО/AlgoritmNelderMead/AlgoritmNelderMead/AlgoritmNelderMead.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

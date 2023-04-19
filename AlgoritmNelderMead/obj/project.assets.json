@@ -1,11 +1,52 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "MathParser.org-mXparser/5.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathParser.org-mXparser.dll": {
+            "related": ".deps.json"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathParser.org-mXparser.dll": {
+            "related": ".deps.json"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MathParser.org-mXparser/5.2.1": {
+      "sha512": "UZxx6OpGB7sv5zgGssw+8GfGImoPJbJqe8d5f3dj2+Et6V7RLLQLBdSQPmgWVHruSMXRWx6aE88XLzKzaO9n4w==",
+      "type": "package",
+      "path": "mathparser.org-mxparser/5.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.txt",
+        "images/icon.png",
+        "lib/net35/MathParser.org-mXparser.dll",
+        "lib/net40/MathParser.org-mXparser.dll",
+        "lib/net45/MathParser.org-mXparser.dll",
+        "lib/net461/MathParser.org-mXparser.dll",
+        "lib/net6.0/MathParser.org-mXparser.deps.json",
+        "lib/net6.0/MathParser.org-mXparser.dll",
+        "lib/netstandard20/MathParser.org-mXparser.deps.json",
+        "lib/netstandard20/MathParser.org-mXparser.dll",
+        "lib/netstandard21/MathParser.org-mXparser.deps.json",
+        "lib/netstandard21/MathParser.org-mXparser.dll",
+        "mathparser.org-mxparser.5.2.1.nupkg.sha512",
+        "mathparser.org-mxparser.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "MathParser.org-mXparser >= 5.2.1"
+    ]
   },
   "packageFolders": {
     "/Users/daryapachurina/.nuget/packages/": {}
@@ -43,6 +84,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "MathParser.org-mXparser": {
+            "target": "Package",
+            "version": "[5.2.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
